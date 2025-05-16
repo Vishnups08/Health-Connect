@@ -42,13 +42,13 @@ HealthConnect is a comprehensive web-based healthcare management system designed
    cd health
    ```
 
-2. **Database Configuration:
+2. **Database Configuration**:
 
 - Create a MySQL database named health_system
 - Import the provided SQL schema from health_system.sql
 - Update the database connection settings in config/database.php
 
-3. **Web Server Configuration:
+3. **Web Server Configuration**:
 
 - Ensure your web server (e.g., Apache) is running
 -Place the project files in your web server's document root (e.g., /Applications/XAMPP/xamppfiles/htdocs/health)
@@ -70,9 +70,18 @@ Doctor Portal
 - Ensure proper permissions are set for the uploads directory to prevent unauthorized access
 - Use secure passwords and keep your session information private
 - Input validation is implemented to prevent SQL injection and XSS attacks
+  
 📁 Project Structure
 
-/health├── config/           # Configuration files├── includes/         # PHP helper functions├── uploads/          # User uploaded files│   └── medical_documents/  # Patient medical documents├── *.php             # PHP application files├── *.css             # CSS stylesheets├── *.js              # JavaScript files└── health_system.sql # Database schema
+/health
+├── config/           # Configuration files
+├── includes/         # PHP helper functions
+├── uploads/          # User uploaded files
+│   └── medical_documents/  # Patient medical documents
+├── *.php             # PHP application files
+├── *.css             # CSS stylesheets
+├── *.js              # JavaScript files
+└── health_system.sql # Database schema
 
 📞 Contact
 For any questions or support, please contact psvishnu888@gmail.com.
