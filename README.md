@@ -38,7 +38,7 @@ HealthConnect is a comprehensive web-based healthcare management system designed
 
 1. **Clone the Repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/Vishnups08/Health-Connect.git
    cd health
    ```
 
@@ -72,7 +72,7 @@ Doctor Portal
 - Input validation is implemented to prevent SQL injection and XSS attacks
   
 📁 Project Structure
-
+```
 /health
 ├── config/           # Configuration files
 ├── includes/         # PHP helper functions
@@ -82,6 +82,6 @@ Doctor Portal
 ├── *.css             # CSS stylesheets
 ├── *.js              # JavaScript files
 └── health_system.sql # Database schema
-
+```
 📞 Contact
 For any questions or support, please contact psvishnu888@gmail.com.
