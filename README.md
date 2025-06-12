@@ -83,5 +83,7 @@ Doctor Portal
 ├── *.js              # JavaScript files
 └── health_system.sql # Database schema
 ```
-📞 Contact
-For any questions or support, please contact psvishnu888@gmail.com.
+
+###LICENCE
+MIT Licence
+
