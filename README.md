@@ -83,7 +83,3 @@ Doctor Portal
 ├── *.js              # JavaScript files
 └── health_system.sql # Database schema
 ```
-
-###LICENCE
-MIT Licence
-
